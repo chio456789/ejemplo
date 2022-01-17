@@ -1,5 +1,5 @@
 <?php
 
 $casa = "casa";
-$casona= "casona";
+$casona= "texto borrado";
 
